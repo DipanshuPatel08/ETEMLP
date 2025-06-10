@@ -1,1 +1,1 @@
-This is my end to end project for MLg
+This is my end to end project for ML
