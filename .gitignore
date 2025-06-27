@@ -129,6 +129,8 @@ celerybeat.pid
 
 # Environments
 artifacts
+.vscode
+.DS_Store
 .env
 .venv
 env/
